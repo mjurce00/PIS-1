@@ -7,6 +7,6 @@ namespace Vjezba1
 {
     class NewClass
     {
-        public void DrugaMetoda() { }
+        public void Metoda() { }
     }
 }

@@ -10,6 +10,7 @@ namespace Vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("harmonika");
             //Jesi siguran da ti ovo radi?!?!?
         }
     }
